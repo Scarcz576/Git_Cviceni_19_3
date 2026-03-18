@@ -1,0 +1,11 @@
+Repo - zkratka pro repository / úložiště 
+
+Push - nahrát naše lokální změny
+
+Pull - k aktualizaci lokálního repozitáře
+
+Fetch - stahuje nové commit, větve a tagy
+
+Commit - uložení aktuálního stavu projektu
+
+Branch - nezávislá linie vývoje v rámci jednoho projektu
