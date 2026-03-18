@@ -1,0 +1,12 @@
+  * Repo
+	server, kde uloží všechny změny z github desktopu
+  * Push
+	to, co jsi přidala/změnila "pushneš(pošleš)" do ropositoru, aby to zachovalo/uložilo
+  * Pull
+	opak "PUSH", co jsou zachovány v repositoru, "pullneš(stáhneš)" to do svých lokální disku
+  * Fetch
+	před přidání věcí "fetchneš(refreshneš)", kdyby někdo pushoval změny a ty jsi to ještě nepullnul
+  * Commit
+	to, jsou ty "změny(commit)"
+  * Branch
+	jsou větve
