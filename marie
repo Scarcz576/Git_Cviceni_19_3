@@ -1,0 +1,6 @@
+  * Repo - Repozitorář tam kde se ukládají projekty
+  * Push - Dá se evlastní verze do toho repozitáře
+  * Pull - vyndá se (Stáhne se) verze co udělal někdo jiný než v y
+  * Fetch - stáhnete se změněné věci v projektu
+  * Commit - uděláte něco nového a ono to zaznamená věci
+  * Branch - větvení umožnuje spojovat jiné projekty 
