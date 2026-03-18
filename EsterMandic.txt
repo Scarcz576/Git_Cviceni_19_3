@@ -1,0 +1,6 @@
+Repo- projekt na GitHubu, kde jsou uložené změny a všechny soubory.
+Push- náhrání svých změn z počítače na GitHub
+Pull- stažení změn z GitHubu do počítače
+Fetch- zjištění, co je nového na GitHubu, ale ještě se to nestahuje do projektu
+Commit- uložení změn s popisem
+Branch- vedlejší větev projektu, kde lze pracovat ovlivnění hlavní verze
