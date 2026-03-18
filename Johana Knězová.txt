@@ -1,0 +1,11 @@
+Repo - složka kde git sleduje všechny změny souborů ukláda jejich historii
+
+Push - pošleme svůj commit pro ostatní na jiný server
+
+Pull - stáhne změny ze serveru a slouči je
+
+Fetch - stáhne informace o změnách ze vzdáleného serveru do mého počítače nesloučí to ale s rozpracovaným kódem jen se podívá
+
+Commit - udělá snapshot aktuálního stavu mých souborů v lokální úložišti
+
+Branch - samostatná větev ve které se dá pracovat aniž by ovlivňovala ostatní větve nebo main kod
