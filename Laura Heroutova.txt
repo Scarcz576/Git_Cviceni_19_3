@@ -1,0 +1,6 @@
+Repo = Repository, je to ten projekt, ktery obsahuje vsechny slozky a zmeny.
+Push = Kdyz z mistniho disku chci poslat zmeny do toho lokalniho disku.
+Pull = Kdyz z lokalniho disku potrebuji stahnout zmeny/nejnovejsi verzi na muj mistni disk.
+Fetch = Pouziju kdyz potrebuji zjistit jestli se na lokalnim disku neco zmeniolo - slouzi neco jako refresh stranky. Zjistuji, jestli je neco co muzu pullnout.
+Commit = Kdyz udelam nejake zmeny, tak predtim nez je pushnu tak je musim ulozit do commitu. Nasledne muzu ten commit nebo i vice commitu pushnout najednou. Obvykle se delaji po malych upravach aby nasledne bylo jednodussi opravit chyby kdyby nastaly.
+Branch = Jsou to vetve. Hlavni projekt je na main vetvi a potom muze se k tomu dotvorit vice vetvi. Zmeny co se provedou na te jine vetvi tak se neslucuji s main vetvi. Aby se sloucily, je treba poslat zadost. Pouzivaji se prevazne kdyz se do projektu pridavaji vetsi zmeny.
