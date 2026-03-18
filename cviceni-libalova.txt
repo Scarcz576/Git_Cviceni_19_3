@@ -1,0 +1,6 @@
+repozitář = složka, kde se nachází všechna datat která momentálně v projektu jsou.
+push = posílám svoje změny do online github projektu
+pull = stahuju si změny z online github projektu na můj počítač
+Fetch= kontroluju, jestli někdo nezměnil něco v github projektu
+commit= házím si svoje změny do svého github projektu
+branch = oddělená část v repozitáři
