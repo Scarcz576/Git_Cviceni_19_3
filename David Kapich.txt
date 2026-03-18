@@ -1,0 +1,6 @@
+repo = uložiště projektu
+commit = uložiště změn projektu
+branch = odděleni verze projektu
+push = odesilani svých commitu z lokálního na vzdal repo
+pull = stahovani z vzdal a rovnou spoji s lokalnim
+fetch = stahne změny ale nezapoji
