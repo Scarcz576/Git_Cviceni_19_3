@@ -1,0 +1,6 @@
+  * Repo - tam kde se ukládají ty změny od všech
+  * Push - změny se přepíšou na lokální pc
+  * Pull - změny se přepíšou na cloud (online)
+  * Fetch - vyhledá změny které udělal někdo jiný (refresh)
+  * Commit - poslání svých změn na cloud
+  * Branch - neboli větev je část která se neukládá do stejného "projektu (zatím)" ale do jiné (využívá se na pokusy a tvorby třeba mechanik aby to nikdo z týmu nezničil)
