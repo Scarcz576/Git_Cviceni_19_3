@@ -1,0 +1,17 @@
+Repo
+- Repo (repository/repozitář) je centrální úložiště, kde jsou uloženy všechny soubory pro projekt.
+
+Push
+- Push slouží v Gitu k odeslání lokálních změn z našeho počítače do repozitáře.
+
+Pull
+- Pull slouží k stahování a začleňování změn z repozitáře na lokální počítač.
+
+Fetch
+- Fetch slouží k stažení změn z repozitáře, aniž by se změny okamžitě začlenily do lokálního projektu.
+
+Commit
+- Commit zahrnuje provedené změny a vytvaří bod (so zprávou) v historii projektu.
+
+Branch (větev)
+- Nezávislá linie vývoje, můžou se tam mazat a přidávat věci aniž by to ovlivnilo hlavní větev.
