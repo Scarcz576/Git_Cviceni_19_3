@@ -1,0 +1,6 @@
+Repo - (repozitář) ukládá všechny soubory projektu a i změny
+Push - odesílá lokální změny našeho projektu do repozitáře na Github
+Pull - stahuje nejnovější změny z repozitáře
+Fetch - stahuje nové commity, tagy, větve z repozitáře, udržuje lokální metadata synchronizovaná
+Commit - ukládá konkrétní změnu v projektu
+Branch - představují prostor, kde můžeme sami experimentovat, aniž bychom někomu něco pokazili, nebo s námi může kdokoliv spolupracovat
