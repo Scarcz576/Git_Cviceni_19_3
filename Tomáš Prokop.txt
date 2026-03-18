@@ -1,0 +1,27 @@
+ Repo 
+
+To je úložiště projektu
+Místo, kde máš všechny soubory a historii atd.
+
+
+ Commit
+ uložení změn
+Když něco upravíš, uděláš commit a tím uložíš snapshot projektu.
+
+
+ Branch 
+oddělená verze projektu
+Můžeš pracovat na nový funkci bez toho, aby ses dotkl hlavní verze.
+
+
+
+ Pull
+ stažení, spojení zmen ze hardwaru
+Stáhneš si novinky a Github je rovnou spojí s tím projektem.
+
+
+
+ Fetch
+ stažení bez spojení
+Stáhneš změny, ale je nepřidáš do projektu.
+
